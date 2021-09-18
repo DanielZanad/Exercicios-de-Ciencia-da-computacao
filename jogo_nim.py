@@ -115,3 +115,6 @@ def campeonato():
 
     print("Placar final: Você  {} x {}  Computador".format(usuario, computador))
 
+
+main()    
+
