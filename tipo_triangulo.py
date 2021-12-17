@@ -14,6 +14,3 @@ class Triangulo:
             return "isósceles"
         else:
             return "escaleno"
-
-t = Triangulo(3,4,5)
-print(t.tipo_lado())
